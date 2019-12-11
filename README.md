@@ -1,6 +1,7 @@
 # DAC
 code by lch
 
+## method
 
 DAC: 原版DAC，上层V是由下层V加权求和得到
 
